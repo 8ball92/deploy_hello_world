@@ -16,4 +16,4 @@ services:
 networks:
   simple-net:
     driver: overlay
-    external: true
+    external: true   
