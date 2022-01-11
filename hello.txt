@@ -12,6 +12,7 @@ services:
       placement:
         constraints: [node.platform.os == linux]
      
+     
  
 networks:
   simple-net:
