@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-  jenkins:
+  teste:
     image: gblbjj/deploy 
     ports:
       - 8080:8080
