@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   teste:
-    image: gblbjj/deploy
+    image: gblbjj/aqui
     # ports:
     #   - 8083:8083
     networks:
