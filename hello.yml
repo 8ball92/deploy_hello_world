@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   jenkins:
-    image: gblbjj/${env.APP}:${env.TAG_VERSION} 
+    image: deploy 
     ports:
       - 8080:8080
     networks:
