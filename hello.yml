@@ -1,9 +1,9 @@
 version: '3.7'
 services:
   teste:
-    image: gblbjj/deploy 
-    ports:
-      - 8083:8083
+    image: gblbjj/demo:1.0.0 
+    # ports:
+    #   - 8083:8083
     networks:
       - simple-net
     deploy:
